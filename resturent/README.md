@@ -1,3 +1,11 @@
+
+
+<img width="1366" height="593" alt="Screenshot (509)" src="https://github.com/user-attachments/assets/ed46ddf4-df81-4f82-8ffc-e55157f8873a" />
+
+
+
+
+
 # FlavorHub - Full-Stack Restaurant Web Application
 
 A complete full-stack restaurant web application with real-time order tracking, dual payment gateway integration, and an admin dashboard.
